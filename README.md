@@ -1,3 +1,13 @@
+﻿# Fork of Unity Code Snippets
+
+The original can be found at https://github.com/kleber-swf/vscode-unity-code-snippets
+
+The main differences:
+- New row brackets.
+- Methods accessibility level changed to protected. With private IDEs do not warn in a case of unintentional method hiding.
+
+Below is the original README.md
+
 # Unity Code Snippets
 
 Create Unity classes and methods easily.
